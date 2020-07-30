@@ -1,0 +1,1 @@
+df.loc[df.Country == 'Germany', 'New_cases'][-30:].mean()

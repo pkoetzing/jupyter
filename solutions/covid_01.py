@@ -1,0 +1,1 @@
+df.loc['2020-03-31', 'Cumulative_cases'].sum()

@@ -1,0 +1,1 @@
+df.loc[df.WHO_region == 'EURO', 'New_cases'].groupby('Date_reported').sum()[-30:].mean()
