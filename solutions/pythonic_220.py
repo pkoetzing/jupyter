@@ -1,0 +1,1 @@
+dict(zip(char, ord))
