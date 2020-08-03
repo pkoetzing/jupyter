@@ -1,10 +1,13 @@
-# Data Analysis using Python/Pandas 
+# Ad hoc data analysis using Python/Pandas
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pkoetzing/jupyter/master)
 
 [launch nbviewer](https://nbviewer.jupyter.org/github/pkoetzing/jupyter/tree/master/)
 
-## Contents:  
+## Contents
+
+-
+
 
 - Pandas ‘Series’ and ‘DataFrame’ objects 
 - Retrieving market data from the MCP timeseries database 
